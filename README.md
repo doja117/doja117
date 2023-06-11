@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doja117 , (Metal Gear + Halo + Football + Coding + ... )  
 - 👀 I’m interested in Web DEV , GAME DEV 
-- 🌱 I’m currently learning Backend Development ( going through the basics of TCP/UDP etc , knows REST and have built apps upon it  ) + Parallel Programming 
+- 🌱 I’m currently learning Backend Development + Parallel Programming 
 - 💞️ I’m looking to collaborate on ... Still Learning so open for anything interesting  
 - 📫 How to reach me 
 -     ->> 1899doja@gmail.com
