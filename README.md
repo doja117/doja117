@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @doja117 , (Metal Gear + Halo + Football + Coding + ... + Philosophy)  
-- 👀 I’m interested in Web DEV , GAME DEV 
-- 🌱 I’m currently learning Backend Development + Parallel Programming 
+- 👋 Hi, I’m @doja117 , (Gaming(Single Player Nes to modern) >>> Mathematics >>> Coding >>>Phyiscal Activity >>> Philosphy {GettingGud*=1.1})  
+- 👀 I’m interested in all sorts of things , too stupid(less hours put into) to finalize a field , Anything >>> Ubuntu
+- 🌱 I’m currently learning Backend Development 
 - 💞️ I’m looking to collaborate on ... Still Learning so open for anything interesting  
 - 📫 How to reach me 
 -     ->> 1899doja@gmail.com
 -     ->> https://twitter.com/1899doja
--     ->> GitHUB
+-     ->> GitHUB->This.
 
-
-Have a nice day , if not then : https://www.youtube.com/watch?v=gQtKJbptcns
-Kindly ignore typos
+listenToThis : https://www.youtube.com/watch?v=-pY__IYHYMc&ab_channel=Nujabes-Top
 <!---
 Daft_Punk animated Movie
 If you are looking for "full story" here is the order:
