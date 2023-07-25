@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Saurabh@doja117 , (Metal Gear + Halo + Football + Coding + ... )  
+- 👋 Hi, I’m @doja117 , (Metal Gear + Halo + Football + Coding + ... + Philosophy)  
 - 👀 I’m interested in Web DEV , GAME DEV 
 - 🌱 I’m currently learning Backend Development + Parallel Programming 
 - 💞️ I’m looking to collaborate on ... Still Learning so open for anything interesting  
 - 📫 How to reach me 
 -     ->> 1899doja@gmail.com
--     ->> https://twitter.com/Srbh2049
+-     ->> https://twitter.com/1899doja
 -     ->> GitHUB
 
 
