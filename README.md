@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @doja117 , (Gaming(Single Player Nes to modern) >>> Mathematics >>> Coding >>>Phyiscal Activity >>> Philosphy {GettingGud*=1.1})  
-- 👀 I’m interested in all sorts of things , too stupid(less hours put into) to finalize a field , Anything >>> Ubuntu
-- 🌱 I’m currently learning Backend Development 
+- 👋 Hi, I’m @doja117 ,
+- 👀 I’m interested in all sorts of things mostly related to coding,synthware and mathematics 
+- 🌱 I’m currently learning on how to Improve on Backend Performance+DSA 
 - 💞️ I’m looking to collaborate on ... Still Learning so open for anything interesting , no ping for marketting jobs .
 - 📫 How to reach me 
 -     ->> 1899doja@gmail.com 
