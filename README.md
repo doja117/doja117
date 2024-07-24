@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @doja117 ,
-- 👀 I’m interested in all sorts of things mostly related to coding,synthware and mathematics 
-- 🌱 I’m currently learning on how to Improve on Backend Performance+DSA 
-- 💞️ I’m looking to collaborate on ... Still Learning so open for anything interesting , no ping for marketting jobs .
+- 👋 Hi ... 
+- 💞️  ... Still Learning so open for anything interesting , no ping for marketting jobs .
 - 📫 How to reach me 
 -     ->> 1899doja@gmail.com 
 -     ->> https://twitter.com/1899doja
